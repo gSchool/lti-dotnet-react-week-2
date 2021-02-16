@@ -1,0 +1,143 @@
+# Config.yaml specifies the content and ordering within a repo for a curriculum block
+
+# Supported Fields
+# ==========================
+# Standards -- (Standards = Units). A list of Units for a block
+# Standard.Title: string -- The Unit title that shows up on the curriculum overview
+# Standard.UID: string -- A unique ID for the Unit. Use `cmd/ctrl+option/alt+u` to generate (runs once per cursor/selection)
+# Standard.Description: string -- The Unit description that shows up on the curriculum overview
+# Standard.SuccessCriteria: list -- An array of success criteria that can be viewed when scoring the checkpoint in a Unit.
+# Standard.ContentFiles: list -- A list of Lessons and (optional) Checkpoints in a Unit.
+# Standard.ContentFiles.Type: Lesson | Checkpoint -- The type of the current content file.
+# Standard.ContentFiles.UID: string -- A unique ID for the Unit. Use `cmd/ctrl+option/alt+u` to generate (runs once per cursor/selection)
+# Standard.ContentFiles.Path: string -- The absolute path to the Lesson, starting with `/`. Use `cmd/ctrl+option/alt+p` to generate
+# Standard.ContentFiles.DefaultVisibility: hidden -- (optional) Set to 'hidden' to hide when a course first starts.
+# Standard.ContentFiles.Autoscore: boolean -- (optional, for Checkpoints only) submit checkpoint scores without review
+# Standard.ContentFiles.MaxCheckpointSubmissions: number -- (optional, for Checkpoints only) limit the number of submissions
+
+# Related Snippets
+# ==========================
+# `unityaml`: add a Unit
+# `lessonyaml`: add a lesson
+# Note: Be sure to place the cursor at the appropriate indentation level before running either of these.
+
+# All UIDs must be unique within a repo. Use `cmd/ctrl+option/alt+u` to generate
+Title: Week Two - Intermediate JavaScript concepts and React Fundamentals
+Standards:
+  - Title: Production JavaScript Concepts
+    UID: 0cc2ea0c-7560-4874-bf14-3d2c424d83f6
+    Description: Going through production level JavaScript concepts
+    SuccessCriteria:
+      -  Be able to describe production level JavaScript Concepts
+    ContentFiles:
+      - Type: Lesson
+        UID:  53299a7d-4c81-4004-a393-2661b0e448ef
+        Path: /units/02-production-javascript-concepts/00-overview.md
+      - Type: Lesson
+        UID: 4ba72399-bba4-4cb5-a84d-6c15bb4eb258
+        Path: /units/02-production-javascript-concepts/01-node-as-a-development-enviorment.md
+      - Type: Lesson
+        UID: e1a86ffb-c7a0-4d6f-b285-0b3c0cc71c60
+        Path: /units/02-production-javascript-concepts/02-event-loop.md
+      - Type: Lesson
+        UID: 1234de42-8d37-4e0f-9a48-419763a51f60
+        Path: /units/02-production-javascript-concepts/03-scope-and-closure-in-depth.md
+      - Type: Lesson
+        UID: d319eed1-f344-4825-93e5-40c589aa820a
+        Path: /units/02-production-javascript-concepts/04-single-threaded-execution-contexts.md
+      - Type: Checkpoint
+        UID: 6f93864f-fac6-4e06-899c-cd24b7db7a59
+        Path: /checkpoints/02-production-javascript-concepts.md 
+  - Title: Asynchronous JavaScript
+    UID: 19220e5f-744a-44ff-ad83-3699fbba45e6
+    Description: Going through JavaScript/HTML/CSS fundamentals
+    SuccessCriteria:
+      -  Be able to create a basic React app with a few pages.
+    ContentFiles:
+      - Type: Lesson
+        UID: bf4309ee-be6b-4a37-988a-036d6c4ea90b
+        Path: /units/03-asynchronous-javascript/00-overview.md
+      - Type: Lesson
+        UID: 1619e6c9-ebed-43c8-b60d-197ecd95f5f1
+        Path: /units/03-asynchronous-javascript/01-error-first-callback-pattern.md
+      - Type: Lesson
+        UID: 17b672f3-cc6d-4cf5-bee8-d0aa9c61e031
+        Path: /units/03-asynchronous-javascript/02-promises.md
+      - Type: Lesson
+        UID: 382505a9-ed29-403b-bd30-1033d45ce98a
+        Path: /units/03-asynchronous-javascript/03-async-await.md 
+      - Type: Checkpoint
+        UID: a34a5393-f421-44ca-ad90-3bcc992c5588
+        Path: /checkpoints/03-asynchronous-javascript.md 
+  - Title: TDD in JavaScript
+    UID: 70fb7805-7a58-401b-8a75-29caae240cf3
+    Description: Going through JavaScript/HTML/CSS fundamentals
+    SuccessCriteria:
+      -  Be able to create a basic React app with a few pages.
+    ContentFiles:
+      - Type: Lesson
+        UID:  0cba21de-615b-4aec-b272-77232fb75feb
+        Path: /units/04-tdd-in-javascript/00-overview.md
+      - Type: Lesson
+        UID: 8176ac97-78ad-46b9-a461-214593941a44
+        Path: /units/04-tdd-in-javascript/01-unit-testing.md
+      - Type: Lesson
+        UID: 69e8013b-ea9c-4488-8db2-127ee6e52cdf
+        Path: /units/04-tdd-in-javascript/02-jest-testing-framework.md
+      - Type: Lesson
+        UID: 827931b1-98e1-4f14-bf6c-aa91eafc2bb6
+        Path: /units/04-tdd-in-javascript/03-black-box-and-transparent-box-testing.md
+      - Type: Lesson
+        UID:  89519ec8-ae43-4be6-aa1d-a953c381a792
+        Path: /units/04-tdd-in-javascript/04-mocks-stubs-and-spies-in-javascript.md 
+      - Type: Checkpoint
+        UID: aab975d5-b4a6-42f4-8e1a-113a428181e2
+        Path: /checkpoints/04-tdd-in-javascript.md    
+  - Title: DOM API
+    UID: f87b0e16-a7cc-44be-8e79-7632b04957c4
+    Description: Going through JavaScript/HTML/CSS fundamentals
+    SuccessCriteria:
+      -  Be able to create a basic React app with a few pages.
+    ContentFiles:
+      - Type: Lesson
+        UID: 7c819846-1c9a-4f43-95a0-0d62eae174de
+        Path: /units/05-dom-api/00-overview.md
+      - Type: Lesson
+        UID: a0d52f97-858d-4575-af41-eab1eb1e8404
+        Path: /units/05-dom-api/01-programmatically-populating-the-dom.md
+      - Type: Lesson
+        UID: 8ec72a57-e3f7-47d5-bdeb-95c6317ad6ee
+        Path: /units/05-dom-api/02-dom-manipulations.md
+      - Type: Lesson
+        UID: 5174642b-97e7-4a4e-bb53-fb552b03f356
+        Path: /units/05-dom-api/03-event-listners.md 
+      - Type: Checkpoint
+        UID: 4cd043bc-0c3f-4f95-8301-e9706c36d454
+        Path: /checkpoints/05-dom-api.md   
+  - Title: React Fundamentals
+    UID: 4b0235f0-ee27-4048-a098-f3d07b5eece1
+    Description: Going through JavaScript/HTML/CSS fundamentals
+    SuccessCriteria:
+      -  Be able to create a basic React app with a few pages.
+    ContentFiles:
+      - Type: Lesson
+        UID: 81cdb79e-43c9-414c-8896-df1b545292d7
+        Path: /units/06-react-fundamentals/00-overview.md
+      - Type: Lesson
+        UID: 152bfa0d-b573-4a76-a021-9ba64bb1f1ba
+        Path: /units/06-react-fundamentals/01-rendering-libraries.md
+      - Type: Lesson
+        UID: 888d2d19-4fe9-4824-84dd-0ce136f6899f
+        Path: /units/06-react-fundamentals/02-react-without-jsx.md
+      - Type: Lesson
+        UID: 75ddae80-66cd-42ed-ad1d-485ca35e8bb1
+        Path: /units/06-react-fundamentals/03-jsx.md
+      - Type: Lesson
+        UID: e3e61187-d847-448e-8bf2-710f5d11d5f5
+        Path: /units/06-react-fundamentals/04-the-build-toolchain.md
+      - Type: Lesson
+        UID: adf19c33-6dda-4186-b8d6-eff2b222c604
+        Path: /units/06-react-fundamentals/05-classes-and-stateless-functional-components.md
+      - Type: Checkpoint
+        UID: 66ce9d3b-c314-49d9-99a8-55a7a35be778
+        Path: /checkpoints/06-react-fundamentals.md  
