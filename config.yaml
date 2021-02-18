@@ -82,11 +82,11 @@ Standards:
         UID: 8176ac97-78ad-46b9-a461-214593941a44
         Path: /units/04-tdd-in-javascript/01-unit-testing.md
       - Type: Lesson
-        UID: 69e8013b-ea9c-4488-8db2-127ee6e52cdf
-        Path: /units/04-tdd-in-javascript/02-jest-testing-framework.md
-      - Type: Lesson
         UID: 827931b1-98e1-4f14-bf6c-aa91eafc2bb6
-        Path: /units/04-tdd-in-javascript/03-black-box-and-transparent-box-testing.md
+        Path: /units/04-tdd-in-javascript/02-black-box-and-transparent-box-testing.md
+      - Type: Lesson
+        UID: 69e8013b-ea9c-4488-8db2-127ee6e52cdf
+        Path: /units/04-tdd-in-javascript/03-jest-testing-framework.md
       - Type: Lesson
         UID:  89519ec8-ae43-4be6-aa1d-a953c381a792
         Path: /units/04-tdd-in-javascript/04-mocks-stubs-and-spies-in-javascript.md 

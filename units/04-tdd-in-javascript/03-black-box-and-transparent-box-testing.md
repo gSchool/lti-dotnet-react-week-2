@@ -1,1 +1,0 @@
-# Black Box and Transparent Box Testing
