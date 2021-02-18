@@ -16,7 +16,7 @@
 
 ### JS TDD in JavaScript
 
-Using JavaScript and TDD in JavaScript, create a simple console based quize. Feel free to use previous concepts here. 
+Using JavaScript and TDD in JavaScript, test the quiz and add any new functionality you weren't able to add before. 
 
 Submit the github repo  containing your work on TDD in JavaScript below.
 

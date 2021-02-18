@@ -16,7 +16,7 @@
 
 ### Production JavaScript Concepts
 
-Using JavaScript and TDD in JavaScript, create a simple quiz that can be taken in the console.
+Using JavaScript, create a simple quiz that can be taken in the console. The quiz should display the user's answers once they've hit enter and score once all questions are complete.
 
 Submit the github repo  containing your work on Production JavaScript Concepts below.
 

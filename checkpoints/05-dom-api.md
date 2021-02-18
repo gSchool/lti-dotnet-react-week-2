@@ -16,7 +16,7 @@
 
 ### DOM API
 
-Using the last project, update the quiz to display inputed data. 
+Updating the last project, display the quiz on a webpage (through HTML) and allow users to hit a button for "submit" (able to score and display thier answers). 
 
 Submit the github repo  containing your work on TDD in DOM API below.
 
