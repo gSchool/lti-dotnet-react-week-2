@@ -74,15 +74,17 @@ https://github.com/<username>/js-native-array-methods
 
 * type: project
 * id: 6b0ee22c-f31f-46f2-8cc2-ec467cade30f
-* title: JS Native Array Methods
+* title: Asynchronous JavaScript
 
 <!--'question' is required, markdown, the question to be answered-->
 
 ##### !question
 
-### JS Native Array Methods
+### Asynchronous JavaScript
 
-Submit the github repo containing your work on the js-native-array-methods below.
+Create a JSON file with your quiz questions. Using either `async`/`await` or a `promise`, `fecth` the questions to be used in the quiz.
+
+Submit the github  containing your work on the Asynchronous JavaScript below.
 
 ##### !end-question
 
@@ -90,7 +92,7 @@ Submit the github repo containing your work on the js-native-array-methods below
 
 ##### !placeholder
 
-https://github.com/<username>/js-native-array-methods
+https://github.com/<username>/asynchronous-javascript
 
 ##### !end-placeholder
 

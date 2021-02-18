@@ -8,15 +8,17 @@
 
 * type: project
 * id: bbab860e-2d67-4c51-8b75-40135641cea2
-* title: JS Native Array Methods
+* title: TDD in JavaScript
 
 <!--'question' is required, markdown, the question to be answered-->
 
 ##### !question
 
-### JS Native Array Methods
+### JS TDD in JavaScript
 
-Submit the github repo containing your work on the js-native-array-methods below.
+Using JavaScript and TDD in JavaScript, create a simple console based quize. Feel free to use previous concepts here. 
+
+Submit the github repo  containing your work on TDD in JavaScript below.
 
 ##### !end-question
 
@@ -24,39 +26,7 @@ Submit the github repo containing your work on the js-native-array-methods below
 
 ##### !placeholder
 
-https://github.com/<username>/js-native-array-methods
-
-##### !end-placeholder
-
-### !end-challenge
-
-<!----------------------END CHALLENGE-----------------------------><!----------------------BEGIN CHALLENGE----------------------------->
-
-### !challenge
-
-<!--'type' is required-->
-<!--'id' is required, string, must be unique within a branch-->
-<!--'title' is required, string, used when displaying results-->
-
-* type: project
-* id: 1d76188f-315f-4371-b37c-128b8fe1c4ad
-* title: JS Native Array Methods
-
-<!--'question' is required, markdown, the question to be answered-->
-
-##### !question
-
-### JS Native Array Methods
-
-Submit the github repo containing your work on the js-native-array-methods below.
-
-##### !end-question
-
-<!--'placeholder' is optional, the placeholder text in the input field. -->
-
-##### !placeholder
-
-https://github.com/<username>/js-native-array-methods
+https://github.com/<username>/tdd-in-javascript
 
 ##### !end-placeholder
 

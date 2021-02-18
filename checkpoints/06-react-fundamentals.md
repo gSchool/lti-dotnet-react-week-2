@@ -8,7 +8,7 @@
 
 * type: project
 * id: 087d7732-53bc-41f2-8147-f73b6f2d34ab
-* title: JS Native Array Methods
+* title: React Fundamentals
 
 <!--'question' is required, markdown, the question to be answered-->
 
@@ -16,7 +16,7 @@
 
 ### JS Native Array Methods
 
-Submit the github repo containing your work on the js-native-array-methods below.
+Submit the github repo containing a basic React app with the quiz pages.
 
 ##### !end-question
 
@@ -24,7 +24,7 @@ Submit the github repo containing your work on the js-native-array-methods below
 
 ##### !placeholder
 
-https://github.com/<username>/js-native-array-methods
+https://github.com/<username>/react-fundamentals
 
 ##### !end-placeholder
 

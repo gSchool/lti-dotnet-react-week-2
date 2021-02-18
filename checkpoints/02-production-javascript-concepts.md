@@ -8,15 +8,17 @@
 
 * type: project
 * id: 92963a5a-2942-4143-b9db-6bcbc39db20e
-* title: JS Native Array Methods
+* title: Production JavaScript Concepts
 
 <!--'question' is required, markdown, the question to be answered-->
 
 ##### !question
 
-### JS Native Array Methods
+### Production JavaScript Concepts
 
-Submit the github repo containing your work on the js-native-array-methods below.
+Using JavaScript and TDD in JavaScript, create a simple quiz that can be taken in the console.
+
+Submit the github repo  containing your work on Production JavaScript Concepts below.
 
 ##### !end-question
 
@@ -24,7 +26,7 @@ Submit the github repo containing your work on the js-native-array-methods below
 
 ##### !placeholder
 
-https://github.com/<username>/js-native-array-methods
+https://github.com/<username>/production-javascript-concepts
 
 ##### !end-placeholder
 

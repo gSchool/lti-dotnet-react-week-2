@@ -8,15 +8,17 @@
 
 * type: project
 * id: 71309e9a-e825-4481-8058-67f6bdd6fc88
-* title: JS Native Array Methods
+* title: DOM API
 
 <!--'question' is required, markdown, the question to be answered-->
 
 ##### !question
 
-### JS Native Array Methods
+### DOM API
 
-Submit the github repo containing your work on the js-native-array-methods below.
+Using the last project, update the quiz to display inputed data. 
+
+Submit the github repo  containing your work on TDD in DOM API below.
 
 ##### !end-question
 
@@ -24,7 +26,7 @@ Submit the github repo containing your work on the js-native-array-methods below
 
 ##### !placeholder
 
-https://github.com/<username>/js-native-array-methods
+https://github.com/<username>/dom-api
 
 ##### !end-placeholder
 
