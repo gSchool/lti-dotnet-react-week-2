@@ -1,11 +1,11 @@
 # Jest Testing Framework
 
-# What is Jest?
+## What is Jest?
 
 Jest is a JavaScript testing framework.
 
-# Demo
+## Demo
 
-# Resources
+## Resources
 
 * https://jestjs.io/

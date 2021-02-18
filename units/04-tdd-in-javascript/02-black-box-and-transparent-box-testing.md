@@ -1,6 +1,6 @@
 # Black Box and Transparent Box Testing
 
-# What is the difference between Black Box testing and Transparent box testing
+## What is the difference between Black Box testing and Transparent box testing?
 
 Black Box is high level testing focused on testing the software from an external user prespective. It is a testing approach used to test software without the knowledge of the internal workings of an application.
 
