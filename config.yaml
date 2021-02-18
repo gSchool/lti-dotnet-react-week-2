@@ -132,12 +132,6 @@ Standards:
       - Type: Lesson
         UID: 75ddae80-66cd-42ed-ad1d-485ca35e8bb1
         Path: /units/06-react-fundamentals/03-jsx.md
-      - Type: Lesson
-        UID: e3e61187-d847-448e-8bf2-710f5d11d5f5
-        Path: /units/06-react-fundamentals/04-the-build-toolchain.md
-      - Type: Lesson
-        UID: adf19c33-6dda-4186-b8d6-eff2b222c604
-        Path: /units/06-react-fundamentals/05-classes-and-stateless-functional-components.md
       - Type: Checkpoint
         UID: 66ce9d3b-c314-49d9-99a8-55a7a35be778
         Path: /checkpoints/06-react-fundamentals.md  
