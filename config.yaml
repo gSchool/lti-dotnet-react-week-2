@@ -22,7 +22,7 @@
 # Note: Be sure to place the cursor at the appropriate indentation level before running either of these.
 
 # All UIDs must be unique within a repo. Use `cmd/ctrl+option/alt+u` to generate
-Title: Week Two - Intermediate JavaScript concepts and React Fundamentals
+Title: Week Two
 Standards:
   - Title: Production JavaScript Concepts
     UID: 0cc2ea0c-7560-4874-bf14-3d2c424d83f6
