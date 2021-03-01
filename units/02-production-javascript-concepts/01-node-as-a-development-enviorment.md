@@ -28,7 +28,7 @@ Windows users should follow the directions [here](https://github.com/coreybutler
 
 `nvm` will give you the ability to install multiple versions of Node on your system at a time, allowing for development in any environment.
 
-In your command line, run `nvm install 12` followed by `node -v`, which should give you an output of `v12.xx.xx`.  If not, let an instructor know.
+In your command line, run `nvm install 15` followed by `node -v`, which should give you an output of `v12.xx.xx`.  If not, let an instructor know.
 
 
 ## Resources
