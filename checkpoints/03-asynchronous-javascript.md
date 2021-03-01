@@ -1,3 +1,7 @@
+<!----------------------BEGIN CHALLENGE----------------------------->
+
+### !challenge
+
 * type: project
 * id: 6b0ee22c-f31f-46f2-8cc2-ec467cade30f
 * title: Asynchronous JavaScript
