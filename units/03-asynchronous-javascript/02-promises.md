@@ -11,3 +11,8 @@ There are three states of a promise:
 * rejected: operation has failed
 
 ## Demo
+
+## Resources
+
+* [MDN for Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+* [Callback Hell](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
