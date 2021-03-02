@@ -13,9 +13,9 @@
 ### Asynchronous JavaScript
 `fecth` the items from [cat-facts](https://alexwohlbruck.github.io/cat-facts/docs/) and log the item (single and list) out to the console. 
 
-API: https://alexwohlbruck.github.io/cat-facts/docs/
-Fetch (Promises): https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
-Fetch (Async/Await): https://dmitripavlutin.com/javascript-fetch-async-await/
+* API: https://alexwohlbruck.github.io/cat-facts/docs/
+* Fetch (Promises): https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+* Fetch (Async/Await): https://dmitripavlutin.com/javascript-fetch-async-await/
 
 * As a user, I should be able to run the file from a terminal.
 * Choose any API from this list [cat-facts](https://alexwohlbruck.github.io/cat-facts/docs/)
