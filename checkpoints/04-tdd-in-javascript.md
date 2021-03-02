@@ -16,9 +16,11 @@
 
 ### JS TDD in JavaScript
 
-Using JavaScript and TDD in JavaScript, test the quiz and add any new functionality you weren't able to add before. 
+* Test the quiz a from Monday. 
+* Add any new functionality you weren't able to add before. (Write your tests first.)
+* Get `this.divide` to not "explode" when 0 is passed in after the first element.
 
-Submit the github repo  containing your work on TDD in JavaScript below.
+Submit the github repo containing your work on TDD in JavaScript below.
 
 ##### !end-question
 
