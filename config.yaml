@@ -134,4 +134,13 @@ Standards:
         Path: /units/06-react-fundamentals/03-jsx.md
       - Type: Checkpoint
         UID: 66ce9d3b-c314-49d9-99a8-55a7a35be778
-        Path: /checkpoints/06-react-fundamentals.md  
+        Path: /checkpoints/06-react-fundamentals.md 
+  - Title: Week 2 Quiz
+    UID: 5343d6aa-1153-427d-adc9-ff37aa825683
+    Description: Weekly Quiz
+    SuccessCriteria:
+      -  SuccessCriteria
+    ContentFiles:
+      - Type: Checkpoint
+        UID: 66ce9d3b-c314-49d9-99a8-55a7a35be778
+        Path: /checkpoints/07-weekly-checkpoint.md  
