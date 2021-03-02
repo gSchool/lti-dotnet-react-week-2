@@ -19,8 +19,8 @@ Fetch (Promises): https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Usi
 Fetch (Async/Await): https://dmitripavlutin.com/javascript-fetch-async-await/
 
 * As a user, I should be able to run the file from a terminal and see a joke returned.
-* As a stretch, as a user, I should be able to open an HTML file in the browser and click a button to get a joke. The joke should update each time I click a button.
 * Write using both promises and async (same code write in both formats).
+* As a stretch, as a user, I should be able to open an HTML file in the browser and click a button to get a joke. The joke should update each time I click a button.
 
 Submit the github  containing your work on the Asynchronous JavaScript below.
 
