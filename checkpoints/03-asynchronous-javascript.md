@@ -11,7 +11,7 @@
 ##### !question
 
 ### Asynchronous JavaScript
-`fecth` the items from [cat-facts](https://alexwohlbruck.github.io/cat-facts/docs/) and log the item (single and list) out to the console. 
+`fecth` a random cat fact from [cat-facts](https://alexwohlbruck.github.io/cat-facts/docs/) and log the item out to the console. 
 
 * API: https://alexwohlbruck.github.io/cat-facts/docs/
 * Fetch (Promises): https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
