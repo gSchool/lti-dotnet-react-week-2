@@ -12,7 +12,13 @@
 
 ### Asynchronous JavaScript
 
-Create a JSON file with your quiz questions. Using either `async`/`await` or a `promise`, `fecth` the questions to be used in the quiz.
+`fecth` (this is a `promise`) the jokes from the [icanhazdadjoke API](https://icanhazdadjoke.com/api) and log the jokes out to the console. 
+
+API: https://icanhazdadjoke.com/api
+Fetch: https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+
+* As a user, I should be able to run the file from a terminal and see a joke returned.
+* As a stretch, as a user, I should be able to open an HTML file in the browser and click a button to get a joke. The joke should update each time I click a button.
 
 Submit the github  containing your work on the Asynchronous JavaScript below.
 
