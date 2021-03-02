@@ -11,16 +11,18 @@
 ##### !question
 
 ### Asynchronous JavaScript
+`fecth` the items from [cat-facts](https://alexwohlbruck.github.io/cat-facts/docs/) and log the item (single and list) out to the console. 
 
-`fecth` the jokes from the [icanhazdadjoke API](https://icanhazdadjoke.com/api) and log the jokes out to the console. 
-
-API: https://icanhazdadjoke.com/api
+API: https://alexwohlbruck.github.io/cat-facts/docs/
 Fetch (Promises): https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
 Fetch (Async/Await): https://dmitripavlutin.com/javascript-fetch-async-await/
 
-* As a user, I should be able to run the file from a terminal and see two jokes returned.
-* Write using both promises (return one joke) and async (return one joke). The functionality should be the same in but utilizing the two different practices.
-* As a stretch, as a user, I should be able to open an HTML file in the browser and click a button to get a joke. The joke should update each time I click a button.
+* As a user, I should be able to run the file from a terminal.
+* Choose any API from this list [cat-facts](https://alexwohlbruck.github.io/cat-facts/docs/)
+* For `promises`, write a function to return a random cat-fact.
+* Repeat the above for `async`/`await`.
+* As a stretch, as a user, I should be able to open an HTML file in the browser and click a button to get a random cat-fact
+* As a stretch, as a user, I should be able to open an HTML file in the browser and display the cat-fact after the button is clicked
 
 Submit the github repo containing your work on the Asynchronous JavaScript below.
 
