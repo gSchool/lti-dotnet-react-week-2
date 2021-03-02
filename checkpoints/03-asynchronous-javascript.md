@@ -22,7 +22,7 @@ Fetch (Async/Await): https://dmitripavlutin.com/javascript-fetch-async-await/
 * Write using both promises (return one joke) and async (return one joke). The functionality should be the same in but utilizing the two different practices.
 * As a stretch, as a user, I should be able to open an HTML file in the browser and click a button to get a joke. The joke should update each time I click a button.
 
-Submit the github  containing your work on the Asynchronous JavaScript below.
+Submit the github repo containing your work on the Asynchronous JavaScript below.
 
 ##### !end-question
 
