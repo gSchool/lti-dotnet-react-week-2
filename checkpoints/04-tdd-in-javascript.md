@@ -21,7 +21,7 @@
 * Test `multiple` (multiply one or more numbers together)
 * Test `modulus`(modulus one or more numbers together)
 * Test `exponential`(raise one to one or more exponents)
-* Usingn [spy or mock](https://jestjs.io/docs/en/mock-functions), test to see if `operation` is being called.
+* Using [spy or mock](https://jestjs.io/docs/en/mock-functions), test to see if `operation` is being called. (This is a stretch goal.)
 
 Submit the github repo containing your work on TDD in JavaScript below.
 
