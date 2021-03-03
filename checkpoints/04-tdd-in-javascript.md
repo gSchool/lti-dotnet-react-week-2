@@ -16,9 +16,12 @@
 
 ### JS TDD in JavaScript
 
-* Test the quiz a from Monday. 
-* Add any new functionality you weren't able to add before. (Write your tests first.)
-* Get `this.divide` to not "explode" when 0 is passed in after the first element.
+* Continue testing the basic calculator from this morning
+* Finish testing `divide`
+* Test `multiple` (multiply one or more numbers together)
+* Test `modulus`(modulus one or more numbers together)
+* Test `exponential`(raise one to one or more exponents)
+* Usingn [spy or mock](https://jestjs.io/docs/en/mock-functions), test to see if `operation` is being called.
 
 Submit the github repo containing your work on TDD in JavaScript below.
 
