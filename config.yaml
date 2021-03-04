@@ -116,9 +116,9 @@ Standards:
         Path: /checkpoints/05-dom-api.md   
   - Title: React Fundamentals
     UID: 4b0235f0-ee27-4048-a098-f3d07b5eece1
-    Description: Going through JavaScript/HTML/CSS fundamentals
+    Description: Going through React fundamentals
     SuccessCriteria:
-      -  Be able to create a basic React app with a few pages.
+      -  [succes]
     ContentFiles:
       - Type: Lesson
         UID: 81cdb79e-43c9-414c-8896-df1b545292d7
@@ -129,18 +129,18 @@ Standards:
       - Type: Lesson
         UID: 888d2d19-4fe9-4824-84dd-0ce136f6899f
         Path: /units/06-react-fundamentals/02-react-without-jsx.md
+      - Type: Checkpoint
+        UID: 66ce9d3b-c314-49d9-99a8-55a7a35be778
+        Path: /checkpoints/06-react-fundamentals.md 
+  - Title: React Fundamentals (cont.)
+    UID: 6e269308-ec72-4d23-a742-b0cd690e9fb5
+    Description: Going through React fundamentals
+    SuccessCriteria:
+      -  [succes]
+    ContentFiles:
       - Type: Lesson
         UID: 75ddae80-66cd-42ed-ad1d-485ca35e8bb1
         Path: /units/06-react-fundamentals/03-jsx.md
       - Type: Checkpoint
-        UID: 66ce9d3b-c314-49d9-99a8-55a7a35be778
-        Path: /checkpoints/06-react-fundamentals.md 
-  - Title: Week 2 Quiz
-    UID: 5343d6aa-1153-427d-adc9-ff37aa825683
-    Description: Weekly Quiz
-    SuccessCriteria:
-      -  SuccessCriteria
-    ContentFiles:
-      - Type: Checkpoint
-        UID: 727b7d8f-e3d4-4d28-a180-a79fc2617346
-        Path: /checkpoints/07-weekly-checkpoint.md  
+        UID: 7ae98ac0-2dbc-4a1e-94f8-e5c8cb554a06
+        Path: /checkpoints/07-react-fundamentals.md 

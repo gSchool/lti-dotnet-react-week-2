@@ -16,7 +16,7 @@
 
 ### JS Native Array Methods
 
-Using React (*without* JSX), create a basic Calculator app.
+Using React (*with* JSX), create a basic Calculator app.
 
 * As a user, I should be able to type in a number into a `input` field and click a button to do an arithmatic function.
 * The updated total should be displayed (with a label) outside of the input field.
