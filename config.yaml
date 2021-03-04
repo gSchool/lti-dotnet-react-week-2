@@ -50,7 +50,7 @@ Standards:
         Path: /checkpoints/02-production-javascript-concepts.md 
   - Title: Asynchronous JavaScript
     UID: 19220e5f-744a-44ff-ad83-3699fbba45e6
-    Description: Going through JavaScript/HTML/CSS fundamentals
+    Description: Asynchronous JavaScript
     SuccessCriteria:
       -  Be able to create a basic React app with a few pages.
     ContentFiles:
@@ -71,7 +71,7 @@ Standards:
         Path: /checkpoints/03-asynchronous-javascript.md 
   - Title: TDD in JavaScript
     UID: 70fb7805-7a58-401b-8a75-29caae240cf3
-    Description: Going through JavaScript/HTML/CSS fundamentals
+    Description: TDD in JavaScript
     SuccessCriteria:
       -  Be able to create a basic React app with a few pages.
     ContentFiles:
