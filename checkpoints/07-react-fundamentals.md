@@ -4,6 +4,7 @@ Before you and your team can begin building the application you will need to per
 
 - One person reate a repo of GitHub. The team will be working off of this repo.
 - That person creates the React app and pushes up.
+  - Use `dotnet new react -o my-new-app` ([documentation](https://docs.microsoft.com/en-us/aspnet/core/client-side/spa/react?view=aspnetcore-5.0&tabs=visual-studio#create-a-new-app))
 - The rest of the team clones the repo.
 
 ## Practices & Principles
@@ -70,7 +71,7 @@ Assume that someone has written the following specifications.  Determine if each
 
 ## Helpful Resources
 
-- [Project Board With Pre-written Stories](https://github.com/gSchool/refactor-and-extend-exercise/projects/1)
+- [dotnet/React app](https://docs.microsoft.com/en-us/aspnet/core/client-side/spa/react?view=aspnetcore-5.0&tabs=visual-studio#create-a-new-app)
 - [NHTSA Vehicle API](https://vpic.nhtsa.dot.gov/api/)
 - [VIN Audit - Market Value API](https://www.vinaudit.com/vehicle-market-value-api)
   
