@@ -1,4 +1,4 @@
-# Refactor and Extension Exercise
+# .NET + React
 
 Before you and your team can begin building the application you will need to perform the following steps:
 
@@ -94,7 +94,7 @@ Assume that someone has written the following specifications.  Determine if each
 
 ### React Fundamentals
 
-Submit the github repo containing the calculator.
+Submit the github repo containing this project
 
 ##### !end-question
 
