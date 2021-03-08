@@ -144,3 +144,12 @@ Standards:
       - Type: Checkpoint
         UID: 7ae98ac0-2dbc-4a1e-94f8-e5c8cb554a06
         Path: /checkpoints/07-react-fundamentals.md 
+  - Title: Week 2 Checkpoint
+    UID: 29716321-88bc-45ab-b6cd-f0583a322286
+    Description: Week 2 Checkpoint
+    SuccessCriteria:
+      -  [succes]
+    ContentFiles:
+      - Type: Checkpoint
+        UID: 9a2887bd-156d-4406-b185-2294972563ff
+        Path: /checkpoints/08-weekly-checkpoint.md 
